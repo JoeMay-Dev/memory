@@ -7,9 +7,10 @@
 body {
 	height: 100vh;
 	display: flex;
+  background-color: black;
 	background-image: url('img/Gotham_skyline.png');
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: contain;
 	background-position: center;
 }
 
