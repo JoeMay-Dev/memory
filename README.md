@@ -1,3 +1,3 @@
 # memory
 
-Simple memory card game using HTML, CSS, and JavaScript
+Re-imagining of code-sketch's memory card game using HTML, CSS, and JavaScript
